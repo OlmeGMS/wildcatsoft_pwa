@@ -2,7 +2,7 @@
   "name": "Wildcatsoft",
   "short_name": "Wildcatsoft",
   "description": "Aplicación PWA de empresa de desarrollo de software",
-  "background_color": "#000",
+  "background_color": "#028fcc",
   "theme_color": "#028fcc",
   "orientation": "portrait",
   "display": "standalone",
